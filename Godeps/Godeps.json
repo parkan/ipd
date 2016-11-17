@@ -1,0 +1,44 @@
+{
+	"ImportPath": "github.com/parkan/ipd",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.11.0-5-gabc6f20",
+			"Rev": "abc6f20dabf4b10195f233ad21ea6c5ba33acae0"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.1-25-g0a192a1",
+			"Rev": "0a192a193177452756c362c20087ddafcf6829c4"
+		},
+		{
+			"ImportPath": "github.com/jessevdk/go-flags",
+			"Comment": "v1.1",
+			"Rev": "8bc97d602c3bfeb5fc6fc9b5a9c898f245495637"
+		},
+		{
+			"ImportPath": "github.com/martinp/ipd/api",
+			"Rev": "faf2f62612c381ab270cda55f34d14fc31487ace"
+		},
+		{
+			"ImportPath": "github.com/oschwald/geoip2-golang",
+			"Comment": "v1.0.0",
+			"Rev": "496a3cbcb65a3cb54497fe4ae2273319e85160a4"
+		},
+		{
+			"ImportPath": "github.com/oschwald/maxminddb-golang",
+			"Comment": "v1.0.0",
+			"Rev": "2af0544f8e032bc7a363e897fbd9c6ed4884a1d6"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "b699b7032584f0953262cb2788a0ca19bb494703"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/windows",
+			"Rev": "b699b7032584f0953262cb2788a0ca19bb494703"
+		}
+	]
+}

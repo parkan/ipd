@@ -1,0 +1,12 @@
+{
+  "name": "ipd",
+  "description": "A simple service for looking up your IP address",
+  "keywords": [
+    "go"
+  ],
+  "image": "heroku/go:1.7",
+  "mount_dir": "src/github.com/parkan/ipd",
+  "website": "http://github.com/parkan/ipd",
+  "repository": "http://github.com/parkan/ipd"
+}
+
