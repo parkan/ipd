@@ -1,2 +1,2 @@
-web: ipd -l ":$PORT"
+web: ipd -l ":$PORT" -H "X-Forwarded-For"
 
