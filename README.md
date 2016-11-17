@@ -1,9 +1,12 @@
 # ipd
 
 [![Build Status](https://travis-ci.org/martinp/ipd.svg)](https://travis-ci.org/martinp/ipd)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 A simple service for looking up your IP address. This is the code that powers
 https://ifconfig.co
+
+This is a Heroku 1-click compatible fork
 
 ## Usage
 

@@ -1,2 +1,2 @@
-web: ipd
+web: ipd -l ":$PORT"
 
